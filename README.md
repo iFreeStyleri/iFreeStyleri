@@ -8,4 +8,4 @@
 
 
 <h3>Как со мной связаться</h3>
-<href src="https://t.me/b0ndisss"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-0090ff?style=for-the-badge&logoColor=telegram&link=https%3A%2F%2Ft.me%2Fb0ndisss"></href>
+<img alt="Static Badge" src="https://img.shields.io/badge/telegram-0090ff?style=for-the-badge&logoColor=telegram&link=https%3A%2F%2Ft.me%2Fb0ndisss">
